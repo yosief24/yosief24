@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... C+ and python 
 - 🌱 I’m currently learning ... CS50x Introduction
 - 💞️ I’m looking to collaborate on ... C+ and python projects
-- 📫 How to reach me ...yosiefabreham24Gmail.com
+- 📫 How to reach me ...yosiefabreham24@Gmail.com
 
 <!---
 yosief24/yosief24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
